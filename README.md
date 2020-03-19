@@ -1,4 +1,4 @@
-# bitfinexleaderboardTracker
+# bitfinex leaderboard Tracker
 Tracks the position of two publicly known traders on BFX
 
 Uses Bitfinex Exchange API to get information about the leaderboard, which allows to track traders about their position and profits. The code is very unorganized as I wanted to get it done asap and know what is being done during these market crashes.
